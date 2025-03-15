@@ -1,3 +1,4 @@
+pip install numpy pillow
 import numpy as np
 from PIL import Image
 
